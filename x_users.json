@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "user_name": "KDTrey5",
+            "last_refresh": "2024-08-07T16:25:04.864017",
+            "since_id": "1820999953373917335"
+        },
+        {
+            "user_name": "KingJames",
+            "last_refresh": "2024-08-07T16:25:06.262943",
+            "since_id": "1819382444899844591"
+        },
+        {
+            "user_name": "zksync",
+            "last_refresh": "2024-08-07T16:25:07.439547",
+            "since_id": "1821208608547250423"
+        },
+        {
+            "user_name": "nubit_org",
+            "last_refresh": "2024-08-07T16:25:08.799272",
+            "since_id": "1821104536116711841"
+        },
+        {
+            "user_name": "SatoshiLite",
+            "last_refresh": "2024-08-07T16:25:09.693403",
+            "since_id": "1807884107722248542"
+        },
+        {
+            "user_name": "Coinbase",
+            "last_refresh": "2024-08-07T16:25:10.815169",
+            "since_id": "1819107075714318842"
+        }
+    ]
+}

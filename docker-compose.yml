@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo_container
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: dbadmin
+      MONGO_INITDB_ROOT_AUTHMECHANISM: SCRAM-SHA-256
+      MONGO_INITDB_DATABASE: twitter
+      MONGO_INITDB_COLLECTION: raw_data
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:

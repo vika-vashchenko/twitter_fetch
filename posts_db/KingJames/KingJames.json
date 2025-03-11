@@ -1,0 +1,3007 @@
+{
+    "user_name": "KingJames",
+    "since_id": "1819382444899844591",
+    "post_list": [
+        {
+            "public_metrics": {
+                "retweet_count": 15394,
+                "reply_count": 3672,
+                "like_count": 199353,
+                "quote_count": 424,
+                "bookmark_count": 2008,
+                "impression_count": 10797804
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 9,
+                        "end": 32,
+                        "url": "https://t.co/OquZoZMTSl",
+                        "expanded_url": "https://twitter.com/simone_biles/status/1819284274224173147",
+                        "display_url": "x.com/simone_biles/s\u2026"
+                    }
+                ]
+            },
+            "id": "1819382444899844591",
+            "created_at": "2024-08-02T14:39:12.000Z",
+            "edit_history_tweet_ids": [
+                "1819382444899844591"
+            ],
+            "text": "Black \ud83d\udc10\ud83d\udda4 https://t.co/OquZoZMTSl"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 393,
+                "reply_count": 766,
+                "like_count": 3432,
+                "quote_count": 45,
+                "bookmark_count": 108,
+                "impression_count": 646071
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 198,
+                        "end": 221,
+                        "url": "https://t.co/6JPQe3x5Di",
+                        "expanded_url": "https://twitter.com/KingJames/status/1812999858233700711/video/1",
+                        "display_url": "pic.twitter.com/6JPQe3x5Di",
+                        "media_key": "13_1812999737424961536"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 152,
+                        "end": 165,
+                        "username": "canyon_bikes",
+                        "id": "52332549"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 167,
+                        "end": 176,
+                        "tag": "MyCanyon"
+                    },
+                    {
+                        "start": 177,
+                        "end": 193,
+                        "tag": "FindYourFreedom"
+                    },
+                    {
+                        "start": 194,
+                        "end": 197,
+                        "tag": "Ad"
+                    }
+                ]
+            },
+            "id": "1812999858233700711",
+            "created_at": "2024-07-15T23:57:04.000Z",
+            "edit_history_tweet_ids": [
+                "1812999858233700711"
+            ],
+            "text": "Find Your Freedom! \ud83d\udeb4\ud83c\udffe\u200d\u2642\ufe0f\ud83d\ude4c\ud83c\udffe\ud83d\udc51 From childhood until today, I've always seen bikes as a way of overcoming your barriers and as a way to wander, and wonder. @canyon_bikes\n\n#MyCanyon #FindYourFreedom #Ad https://t.co/6JPQe3x5Di"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 15099,
+                "reply_count": 3401,
+                "like_count": 233866,
+                "quote_count": 1199,
+                "bookmark_count": 2889,
+                "impression_count": 10535802
+            },
+            "id": "1807618789879480777",
+            "created_at": "2024-07-01T03:34:38.000Z",
+            "edit_history_tweet_ids": [
+                "1807618789879480777"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 26,
+                        "end": 28,
+                        "probability": 0.921,
+                        "type": "Organization",
+                        "normalized_text": "NBA"
+                    },
+                    {
+                        "start": 41,
+                        "end": 58,
+                        "probability": 0.9279,
+                        "type": "Organization",
+                        "normalized_text": "Los Angeles Lakers"
+                    },
+                    {
+                        "start": 70,
+                        "end": 81,
+                        "probability": 0.8384,
+                        "type": "Person",
+                        "normalized_text": "Bronny James"
+                    }
+                ]
+            },
+            "text": "With the 55th in the 2024 NBA draft. The Los Angeles Lakers select\u2026\u2026. Bronny James. \ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72. Just had a moment!"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4038,
+                "reply_count": 831,
+                "like_count": 76172,
+                "quote_count": 100,
+                "bookmark_count": 755,
+                "impression_count": 4646854
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 54,
+                        "end": 77,
+                        "url": "https://t.co/p6TSgfnl1S",
+                        "expanded_url": "https://twitter.com/ESPNNBA/status/1806803166211539357",
+                        "display_url": "x.com/ESPNNBA/status\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 18,
+                        "end": 31,
+                        "probability": 0.7602,
+                        "type": "Person",
+                        "normalized_text": "Nick the Quick"
+                    }
+                ]
+            },
+            "id": "1806833788913139985",
+            "created_at": "2024-06-28T23:35:19.000Z",
+            "edit_history_tweet_ids": [
+                "1806833788913139985"
+            ],
+            "text": "That\u2019s so TOUGH!! Nick the Quick was SO COLD!!!!! \ud83e\udee1\ud83e\udd1d\ud83c\udffe https://t.co/p6TSgfnl1S"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 856,
+                "reply_count": 538,
+                "like_count": 10782,
+                "quote_count": 64,
+                "bookmark_count": 150,
+                "impression_count": 1136090
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 119,
+                        "end": 142,
+                        "url": "https://t.co/3d1qtqgk7w",
+                        "expanded_url": "https://twitter.com/KingJames/status/1806351828038119908/photo/1",
+                        "display_url": "pic.twitter.com/3d1qtqgk7w",
+                        "media_key": "3_1806351820396068864"
+                    },
+                    {
+                        "start": 119,
+                        "end": 142,
+                        "url": "https://t.co/3d1qtqgk7w",
+                        "expanded_url": "https://twitter.com/KingJames/status/1806351828038119908/photo/1",
+                        "display_url": "pic.twitter.com/3d1qtqgk7w",
+                        "media_key": "3_1806351820404424704"
+                    },
+                    {
+                        "start": 119,
+                        "end": 142,
+                        "url": "https://t.co/3d1qtqgk7w",
+                        "expanded_url": "https://twitter.com/KingJames/status/1806351828038119908/photo/1",
+                        "display_url": "pic.twitter.com/3d1qtqgk7w",
+                        "media_key": "3_1806351820408655872"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 19,
+                        "end": 30,
+                        "username": "beatsbydre",
+                        "id": "14423603"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 105,
+                        "end": 118,
+                        "tag": "beatspartner"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 51,
+                        "end": 60,
+                        "probability": 0.8737,
+                        "type": "Other",
+                        "normalized_text": "Beats Pill"
+                    }
+                ]
+            },
+            "id": "1806351828038119908",
+            "created_at": "2024-06-27T15:40:10.000Z",
+            "edit_history_tweet_ids": [
+                "1806351828038119908"
+            ],
+            "text": "One of my favorite @beatsbydre campaigns for sure. Beats Pill is back and louder than ever! Out now!!\u00a0\ud83d\udd0a\ud83d\udc51\u00a0#beatspartner https://t.co/3d1qtqgk7w"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1009,
+                "reply_count": 348,
+                "like_count": 16517,
+                "quote_count": 11,
+                "bookmark_count": 400,
+                "impression_count": 1755073
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 36,
+                        "end": 59,
+                        "url": "https://t.co/12Xy1G2Pdd",
+                        "expanded_url": "https://twitter.com/ComplexSneakers/status/1805239460789190843",
+                        "display_url": "x.com/ComplexSneaker\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 19,
+                        "end": 35,
+                        "username": "ComplexSneakers",
+                        "id": "243165626"
+                    }
+                ]
+            },
+            "id": "1805262682272235855",
+            "created_at": "2024-06-24T15:32:18.000Z",
+            "edit_history_tweet_ids": [
+                "1805262682272235855"
+            ],
+            "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 Young \ud83e\udd34\ud83c\udffe! \ud83e\udee1  @ComplexSneakers https://t.co/12Xy1G2Pdd"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 332,
+                "reply_count": 204,
+                "like_count": 3160,
+                "quote_count": 13,
+                "bookmark_count": 70,
+                "impression_count": 613013
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 180,
+                        "end": 203,
+                        "url": "https://t.co/mkSOG11D16",
+                        "expanded_url": "https://www.harpersbazaar.com/culture/features/a61193034/savannah-james-april-mcdaniel-let-it-break-interview/",
+                        "display_url": "harpersbazaar.com/culture/featur\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1804173225376788480/KvlLh2Ua?format=jpg&name=orig",
+                                "width": 640,
+                                "height": 320
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1804173225376788480/KvlLh2Ua?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Savannah James\u2019s New Venture \"Let It Break\" Rethinks How Women Come Together and Connect",
+                        "description": "Alongside friends April McDaniel and Porsha Ellis, she wants to abolish antiquated notions of networking",
+                        "unwound_url": "https://www.harpersbazaar.com/culture/features/a61193034/savannah-james-april-mcdaniel-let-it-break-interview/"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 97,
+                        "end": 102,
+                        "probability": 0.6552,
+                        "type": "Other",
+                        "normalized_text": "Porsha"
+                    }
+                ]
+            },
+            "id": "1804173763040416079",
+            "created_at": "2024-06-21T15:25:19.000Z",
+            "edit_history_tweet_ids": [
+                "1804173224558891026",
+                "1804173763040416079"
+            ],
+            "text": "The growth and journey is ALL TO REAL! So PROUD of you Queen \ud83d\udc78\ud83c\udffe!! CONGRATULATIONS to you, April, Porsha and you guys whole powerful community within \u201cLET IT BREAK \u201c \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83e\udd0e\ud83e\udd0e\ud83e\udd0e\n\nhttps://t.co/mkSOG11D16"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 224,
+                "reply_count": 196,
+                "like_count": 3091,
+                "quote_count": 7,
+                "bookmark_count": 128,
+                "impression_count": 1301894
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 126,
+                        "end": 149,
+                        "url": "https://t.co/tml4iMg6SU",
+                        "expanded_url": "https://twitter.com/makespringhill/status/1803490854314590562",
+                        "display_url": "x.com/makespringhill\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 3,
+                        "probability": 0.5843,
+                        "type": "Person",
+                        "normalized_text": "Ryan"
+                    }
+                ]
+            },
+            "id": "1803533838095884589",
+            "created_at": "2024-06-19T21:02:29.000Z",
+            "edit_history_tweet_ids": [
+                "1803533838095884589"
+            ],
+            "text": "Ryan is not only one of the best movie directors in the game today but he\u2019s also a great freaking dude man!! \ud83e\udee1 bro fr fr! \ud83d\ude4f\ud83c\udffe\ud83d\udc51 https://t.co/tml4iMg6SU"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 5041,
+                "reply_count": 488,
+                "like_count": 40521,
+                "quote_count": 370,
+                "bookmark_count": 737,
+                "impression_count": 2968683
+            },
+            "id": "1801596518165885214",
+            "created_at": "2024-06-14T12:44:16.000Z",
+            "edit_history_tweet_ids": [
+                "1801596518165885214"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 23,
+                        "end": 32,
+                        "probability": 0.5911,
+                        "type": "Person",
+                        "normalized_text": "Shannon Jr"
+                    }
+                ]
+            },
+            "text": "To my Young \ud83d\udc51 Terrance Shannon Jr! Love and Salute you! Proud of you!! God is Good! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\n\nThe apologies should be 30X louder than the hate he got but we know how it goes. Anyways back to the regular scheduled program. \n\nGreat days ahead! \u2600\ufe0f\u2600\ufe0f\u2600\ufe0f\u2728\u2728\u2728"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2655,
+                "reply_count": 389,
+                "like_count": 63131,
+                "quote_count": 62,
+                "bookmark_count": 434,
+                "impression_count": 2993572
+            },
+            "id": "1800909629599420879",
+            "created_at": "2024-06-12T15:14:49.000Z",
+            "edit_history_tweet_ids": [
+                "1800909629599420879"
+            ],
+            "text": "My mentor, My friend! Hopefully I continue to make you proud! \ud83e\udd72. You're already missed!"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3917,
+                "reply_count": 366,
+                "like_count": 60566,
+                "quote_count": 69,
+                "bookmark_count": 457,
+                "impression_count": 3213955
+            },
+            "id": "1800898659330171024",
+            "created_at": "2024-06-12T14:31:14.000Z",
+            "edit_history_tweet_ids": [
+                "1800898659330171024"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 115,
+                        "end": 119,
+                        "probability": 0.6528,
+                        "type": "Person",
+                        "normalized_text": "Jerry"
+                    }
+                ]
+            },
+            "text": "Will truly miss our convos my dear friend! My thoughts and prayers goes out to your wonderful family! Forever love Jerry! Rest in Paradise my guy! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe\ud83e\udd0e"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2057,
+                "reply_count": 394,
+                "like_count": 18099,
+                "quote_count": 108,
+                "bookmark_count": 1040,
+                "impression_count": 2563390
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 106,
+                        "end": 129,
+                        "url": "https://t.co/5TTYutuQsU",
+                        "expanded_url": "https://twitter.com/KollegeKidd/status/1800142275621879840",
+                        "display_url": "x.com/KollegeKidd/st\u2026"
+                    }
+                ]
+            },
+            "id": "1800187004329865388",
+            "created_at": "2024-06-10T15:23:22.000Z",
+            "edit_history_tweet_ids": [
+                "1800187004329865388"
+            ],
+            "text": "SILENCE!! SILENCE PUNK! You\u2019ll know your way through the dark if you was practicing on your art! \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/5TTYutuQsU"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3532,
+                "reply_count": 966,
+                "like_count": 44576,
+                "quote_count": 421,
+                "bookmark_count": 763,
+                "impression_count": 3940080
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 161,
+                        "end": 184,
+                        "url": "https://t.co/zVrIhOZV60",
+                        "expanded_url": "https://twitter.com/FilmUpdates/status/1799822842319786444",
+                        "display_url": "x.com/FilmUpdates/st\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 56,
+                        "end": 59,
+                        "probability": 0.7448,
+                        "type": "Person",
+                        "normalized_text": "Will"
+                    },
+                    {
+                        "start": 65,
+                        "end": 73,
+                        "probability": 0.8763,
+                        "type": "Person",
+                        "normalized_text": "Marty Mar"
+                    }
+                ]
+            },
+            "id": "1800185952163549531",
+            "created_at": "2024-06-10T15:19:11.000Z",
+            "edit_history_tweet_ids": [
+                "1800185952163549531"
+            ],
+            "text": "Movie is SOOO DAMN GOOD!! The cinematography is INSANE! Will and Marty Mar connection is undefeated! Action packed, funny as hell and simply just a great watch! https://t.co/zVrIhOZV60"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 96,
+                "reply_count": 98,
+                "like_count": 1523,
+                "quote_count": 14,
+                "bookmark_count": 17,
+                "impression_count": 1224943
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/eKILSpjvsy",
+                        "expanded_url": "https://twitter.com/AvatarRandall/status/1800174457727898023",
+                        "display_url": "x.com/AvatarRandall/\u2026"
+                    }
+                ]
+            },
+            "id": "1800185009569251766",
+            "created_at": "2024-06-10T15:15:26.000Z",
+            "edit_history_tweet_ids": [
+                "1800185009569251766"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/eKILSpjvsy"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 222,
+                "reply_count": 160,
+                "like_count": 3220,
+                "quote_count": 11,
+                "bookmark_count": 44,
+                "impression_count": 890095
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 19,
+                        "end": 42,
+                        "url": "https://t.co/8koMJYOHGN",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1799051700164239627",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ]
+            },
+            "id": "1799092218550260212",
+            "created_at": "2024-06-07T14:53:05.000Z",
+            "edit_history_tweet_ids": [
+                "1799092218550260212"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/8koMJYOHGN"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1792,
+                "reply_count": 546,
+                "like_count": 27263,
+                "quote_count": 122,
+                "bookmark_count": 1510,
+                "impression_count": 3163662
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 115,
+                        "end": 138,
+                        "url": "https://t.co/pbzISRT8Ar",
+                        "expanded_url": "https://twitter.com/ThrowbackHoops/status/1798908136839164035",
+                        "display_url": "x.com/ThrowbackHoops\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 21,
+                        "end": 25,
+                        "probability": 0.9667,
+                        "type": "Organization",
+                        "normalized_text": "Hawks"
+                    },
+                    {
+                        "start": 60,
+                        "end": 71,
+                        "probability": 0.9233,
+                        "type": "Person",
+                        "normalized_text": "Larry Legend"
+                    }
+                ]
+            },
+            "id": "1798966988922143196",
+            "created_at": "2024-06-07T06:35:28.000Z",
+            "edit_history_tweet_ids": [
+                "1798966988922143196"
+            ],
+            "text": "Man just look at the Hawks bench from the 1:30 mark and on! Larry Legend was SOOOOOOOOO DAMN NICE! One of them \ud83d\udc10\u2019s https://t.co/pbzISRT8Ar"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2362,
+                "reply_count": 597,
+                "like_count": 43444,
+                "quote_count": 98,
+                "bookmark_count": 259,
+                "impression_count": 2999334
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 127,
+                        "end": 150,
+                        "url": "https://t.co/eckUkkP2Bk",
+                        "expanded_url": "https://twitter.com/ESPNNBA/status/1798814736580329910",
+                        "display_url": "x.com/ESPNNBA/status\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 61,
+                        "end": 62,
+                        "probability": 0.5938,
+                        "type": "Other",
+                        "normalized_text": "DB"
+                    }
+                ]
+            },
+            "id": "1798869468397052065",
+            "created_at": "2024-06-07T00:07:57.000Z",
+            "edit_history_tweet_ids": [
+                "1798869468397052065"
+            ],
+            "text": "Important moment for our sport tonight.  Love and respect to DB and everything she does to elevate all of us! You\u2019re a \ud83d\udc10! \ud83d\ude4f\ud83c\udffe\ud83e\udd0e\ud83e\udee1 https://t.co/eckUkkP2Bk"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2515,
+                "reply_count": 338,
+                "like_count": 31053,
+                "quote_count": 97,
+                "bookmark_count": 305,
+                "impression_count": 2563914
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 29,
+                        "end": 52,
+                        "url": "https://t.co/04dZcZMs6g",
+                        "expanded_url": "https://twitter.com/SLAMKicks/status/1798757927320437075",
+                        "display_url": "x.com/SLAMKicks/stat\u2026"
+                    }
+                ]
+            },
+            "id": "1798761797266354614",
+            "created_at": "2024-06-06T17:00:06.000Z",
+            "edit_history_tweet_ids": [
+                "1798761797266354614"
+            ],
+            "text": "THE ABSOLUTE BEST!!!!!!!!!!! https://t.co/04dZcZMs6g"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1247,
+                "reply_count": 246,
+                "like_count": 15079,
+                "quote_count": 50,
+                "bookmark_count": 158,
+                "impression_count": 1705860
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 86,
+                        "end": 109,
+                        "url": "https://t.co/eHFlIVwOXZ",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1797961499924672917",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ]
+            },
+            "id": "1797968848886591933",
+            "created_at": "2024-06-04T12:29:12.000Z",
+            "edit_history_tweet_ids": [
+                "1797968848886591933"
+            ],
+            "text": "CONGRATULATIONS ANTHONY!!!! SO PROUD OF YOU YOUNG \ud83e\udd34\ud83c\udffe!!!!!!! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83e\udee1 https://t.co/eHFlIVwOXZ"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 337,
+                "reply_count": 201,
+                "like_count": 3658,
+                "quote_count": 89,
+                "bookmark_count": 93,
+                "impression_count": 1683637
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 32,
+                        "end": 55,
+                        "url": "https://t.co/uzdAvdN2sn",
+                        "expanded_url": "https://twitter.com/USLChampionship/status/1797063001129779465",
+                        "display_url": "x.com/USLChampionshi\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "probability": 0.9154,
+                        "type": "Other",
+                        "normalized_text": "The Man"
+                    },
+                    {
+                        "start": 9,
+                        "end": 16,
+                        "probability": 0.8927,
+                        "type": "Other",
+                        "normalized_text": "The Myth"
+                    },
+                    {
+                        "start": 19,
+                        "end": 28,
+                        "probability": 0.8581,
+                        "type": "Other",
+                        "normalized_text": "The Legend"
+                    }
+                ]
+            },
+            "id": "1797068188267769881",
+            "created_at": "2024-06-02T00:50:18.000Z",
+            "edit_history_tweet_ids": [
+                "1797068188267769881"
+            ],
+            "text": "The Man, The Myth, The Legend!! https://t.co/uzdAvdN2sn"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1855,
+                "reply_count": 693,
+                "like_count": 17757,
+                "quote_count": 483,
+                "bookmark_count": 395,
+                "impression_count": 1972764
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/CO7fAc1nTn",
+                        "expanded_url": "https://www.youtube.com/watch?v=22tVWwmTie8&pp=ygUOZW1pbmVtIGhvdWRpbmk%3D",
+                        "display_url": "youtube.com/watch?v=22tVWw\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1819300473377009664/8vLgxAwM?format=jpg&name=orig",
+                                "width": 1280,
+                                "height": 720
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1819300473377009664/8vLgxAwM?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Eminem - Houdini [Official Music Video]",
+                        "description": "Eminem - HoudiniListen: https://eminem.lnk.to/Houdini http://eminem.comhttps://www.facebook.com/eminemhttps://twitter.com/eminemhttps://www.instagram.com/emi...",
+                        "unwound_url": "https://www.youtube.com/watch?v=22tVWwmTie8&pp=ygUOZW1pbmVtIGhvdWRpbmk%3D"
+                    }
+                ]
+            },
+            "id": "1796698499125219365",
+            "created_at": "2024-06-01T00:21:17.000Z",
+            "edit_history_tweet_ids": [
+                "1796698499125219365"
+            ],
+            "text": "https://t.co/CO7fAc1nTn"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 8761,
+                "reply_count": 1698,
+                "like_count": 95044,
+                "quote_count": 3309,
+                "bookmark_count": 1769,
+                "impression_count": 8833965
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 36,
+                        "end": 43,
+                        "username": "Eminem",
+                        "id": "22940219"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 44,
+                        "end": 50,
+                        "probability": 0.6285,
+                        "type": "Other",
+                        "normalized_text": "Houdini"
+                    }
+                ]
+            },
+            "id": "1796548668612550898",
+            "created_at": "2024-05-31T14:25:55.000Z",
+            "edit_history_tweet_ids": [
+                "1796548668612550898"
+            ],
+            "text": "And just like that, HE\u2019S BACK bruh! @Eminem Houdini is too good! \ud83e\udee1\ud83d\udd25\ud83d\udd25\ud83d\udd25"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3655,
+                "reply_count": 521,
+                "like_count": 64636,
+                "quote_count": 80,
+                "bookmark_count": 1706,
+                "impression_count": 5179832
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/yekD9AGdJl",
+                        "expanded_url": "https://twitter.com/Balldontlie/status/1795617628423381129",
+                        "display_url": "x.com/Balldontlie/st\u2026"
+                    }
+                ]
+            },
+            "id": "1795630365228569078",
+            "created_at": "2024-05-29T01:36:54.000Z",
+            "edit_history_tweet_ids": [
+                "1795630365228569078"
+            ],
+            "text": "REST IN PARADISE BIG RED \u2764\ufe0f\ud83d\ude4f\ud83c\udffe\ud83e\udee1 https://t.co/yekD9AGdJl"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3165,
+                "reply_count": 463,
+                "like_count": 33019,
+                "quote_count": 278,
+                "bookmark_count": 314,
+                "impression_count": 2222442
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 2,
+                        "end": 9,
+                        "username": "FCHWPO",
+                        "id": "419181069"
+                    }
+                ]
+            },
+            "id": "1795298145917960535",
+            "created_at": "2024-05-28T03:36:47.000Z",
+            "edit_history_tweet_ids": [
+                "1795298145917960535"
+            ],
+            "text": "\ud83e\udee1 @FCHWPO!!! Keep going Young \ud83d\udc51! RESPECT!"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2897,
+                "reply_count": 1164,
+                "like_count": 33682,
+                "quote_count": 612,
+                "bookmark_count": 350,
+                "impression_count": 2197085
+            },
+            "id": "1793466975735460285",
+            "created_at": "2024-05-23T02:20:22.000Z",
+            "edit_history_tweet_ids": [
+                "1793466975735460285"
+            ],
+            "text": "Have to change that challenge rule! No way you have 2 successful challenges and can\u2019t anymore for the rest of the game! Makes ABSOLUTELY NO SENSE"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 648,
+                "reply_count": 281,
+                "like_count": 9897,
+                "quote_count": 28,
+                "bookmark_count": 106,
+                "impression_count": 1342707
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 20,
+                        "end": 43,
+                        "url": "https://t.co/IOP2bh3Fi4",
+                        "expanded_url": "https://twitter.com/SLAM_HS/status/1793038863352385794",
+                        "display_url": "x.com/SLAM_HS/status\u2026"
+                    }
+                ]
+            },
+            "id": "1793290265140351366",
+            "created_at": "2024-05-22T14:38:11.000Z",
+            "edit_history_tweet_ids": [
+                "1793290265140351366"
+            ],
+            "text": "Keep going Young \ud83e\udd34\ud83c\udffe https://t.co/IOP2bh3Fi4"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1276,
+                "reply_count": 368,
+                "like_count": 13373,
+                "quote_count": 91,
+                "bookmark_count": 647,
+                "impression_count": 1865110
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 21,
+                        "end": 44,
+                        "url": "https://t.co/SQ5pSlXLgm",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1793110546868224378",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1793112448117145754",
+            "created_at": "2024-05-22T02:51:36.000Z",
+            "edit_history_tweet_ids": [
+                "1793112448117145754"
+            ],
+            "text": "\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f https://t.co/SQ5pSlXLgm"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4824,
+                "reply_count": 1438,
+                "like_count": 60249,
+                "quote_count": 1283,
+                "bookmark_count": 856,
+                "impression_count": 3791627
+            },
+            "id": "1793109138144461090",
+            "created_at": "2024-05-22T02:38:27.000Z",
+            "edit_history_tweet_ids": [
+                "1793109138144461090"
+            ],
+            "text": "And yall still wanna know why I would foul up 3 EVERY SINGLE TIME?? \ud83e\udd26\ud83c\udffe\u200d\u2642\ufe0f\ud83e\udd26\ud83c\udffe\u200d\u2642\ufe0f\ud83e\udd26\ud83c\udffe\u200d\u2642\ufe0f"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 480,
+                "reply_count": 263,
+                "like_count": 7651,
+                "quote_count": 23,
+                "bookmark_count": 130,
+                "impression_count": 1626896
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/CDLCkk6YcS",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1793027776993194412",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1793038017331863983",
+            "created_at": "2024-05-21T21:55:51.000Z",
+            "edit_history_tweet_ids": [
+                "1793038017331863983"
+            ],
+            "text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 https://t.co/CDLCkk6YcS"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 577,
+                "reply_count": 303,
+                "like_count": 6507,
+                "quote_count": 31,
+                "bookmark_count": 75,
+                "impression_count": 1284829
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 28,
+                        "end": 51,
+                        "url": "https://t.co/dlpWVTsA0o",
+                        "expanded_url": "https://twitter.com/KingJames/status/1791550183911588143/photo/1",
+                        "display_url": "pic.twitter.com/dlpWVTsA0o",
+                        "media_key": "16_1791550173442662400"
+                    },
+                    {
+                        "start": 52,
+                        "end": 75,
+                        "url": "https://t.co/dvmJ6vtba5",
+                        "expanded_url": "https://twitter.com/PFF/status/1791484233715712409",
+                        "display_url": "x.com/PFF/status/179\u2026"
+                    }
+                ]
+            },
+            "id": "1791550183911588143",
+            "created_at": "2024-05-17T19:23:43.000Z",
+            "edit_history_tweet_ids": [
+                "1791550183911588143"
+            ],
+            "text": "LET\u2019S GOOOOOOO!!!!!! O-H \ud83c\udf30\ud83c\udf30 https://t.co/dlpWVTsA0o https://t.co/dvmJ6vtba5"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1161,
+                "reply_count": 461,
+                "like_count": 21044,
+                "quote_count": 32,
+                "bookmark_count": 248,
+                "impression_count": 2088987
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 19,
+                        "end": 42,
+                        "url": "https://t.co/fOUPL5WtDV",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1790491560984850691",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ]
+            },
+            "id": "1790504268736221561",
+            "created_at": "2024-05-14T22:07:38.000Z",
+            "edit_history_tweet_ids": [
+                "1790504268736221561"
+            ],
+            "text": "LOVE YALL!!!! \ud83e\udd0e\ud83e\udd0e\ud83e\udd0e\ud83d\udc51 https://t.co/fOUPL5WtDV"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1057,
+                "reply_count": 395,
+                "like_count": 12701,
+                "quote_count": 138,
+                "bookmark_count": 389,
+                "impression_count": 1213100
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 79,
+                        "end": 102,
+                        "url": "https://t.co/ckQSgv7JkF",
+                        "expanded_url": "https://twitter.com/KingJames/status/1790376859323998391/video/1",
+                        "display_url": "pic.twitter.com/ckQSgv7JkF",
+                        "media_key": "13_1790376761428996096"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 52,
+                        "end": 61,
+                        "username": "tacobell",
+                        "id": "7831092"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 62,
+                        "end": 78,
+                        "tag": "tacobellpartner"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "probability": 0.5694,
+                        "type": "Other",
+                        "normalized_text": "Taco Tuesday"
+                    },
+                    {
+                        "start": 39,
+                        "end": 43,
+                        "probability": 0.5136,
+                        "type": "Other",
+                        "normalized_text": "Jason"
+                    },
+                    {
+                        "start": 63,
+                        "end": 77,
+                        "probability": 0.4211,
+                        "type": "Other",
+                        "normalized_text": "tacobellpartner"
+                    }
+                ]
+            },
+            "id": "1790376859323998391",
+            "created_at": "2024-05-14T13:41:21.000Z",
+            "edit_history_tweet_ids": [
+                "1790376859323998391"
+            ],
+            "text": "Taco Tuesday\u2019s the best!!!\u00a0\ud83d\ude01\ud83c\udf2e\ud83c\udf2e\ud83d\udd25\u00a0Right, Jason?!\u00a0\ud83d\ude4c\ud83c\udffe\ud83e\udd23\ud83d\udc51\u00a0@tacobell #tacobellpartner https://t.co/ckQSgv7JkF"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 583,
+                "reply_count": 277,
+                "like_count": 6925,
+                "quote_count": 19,
+                "bookmark_count": 92,
+                "impression_count": 1440249
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 51,
+                        "end": 74,
+                        "url": "https://t.co/8VscQ2ZFji",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1788557038668140988",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 5,
+                        "end": 9,
+                        "probability": 0.4179,
+                        "type": "Other",
+                        "normalized_text": "James"
+                    }
+                ]
+            },
+            "id": "1788581809246396679",
+            "created_at": "2024-05-09T14:48:28.000Z",
+            "edit_history_tweet_ids": [
+                "1788581809246396679"
+            ],
+            "text": "Mama James always holds it down!!! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83e\udd0e\ud83e\udd0e\ud83e\udd0e\ud83e\udd0e\u2728\u2728\u2728 https://t.co/8VscQ2ZFji"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 279,
+                "reply_count": 193,
+                "like_count": 2631,
+                "quote_count": 12,
+                "bookmark_count": 69,
+                "impression_count": 1256029
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 25,
+                        "end": 48,
+                        "url": "https://t.co/YMxgvfcewv",
+                        "expanded_url": "https://twitter.com/makespringhill/status/1788252991952191951",
+                        "display_url": "x.com/makespringhill\u2026"
+                    }
+                ]
+            },
+            "id": "1788262871283143039",
+            "created_at": "2024-05-08T17:41:07.000Z",
+            "edit_history_tweet_ids": [
+                "1788262871283143039"
+            ],
+            "text": "So good!!!! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/YMxgvfcewv"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 510,
+                "reply_count": 428,
+                "like_count": 14437,
+                "quote_count": 65,
+                "bookmark_count": 161,
+                "impression_count": 3076944
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/7e4bFQVFU9",
+                        "expanded_url": "https://twitter.com/jj_redick/status/1787977504319214042",
+                        "display_url": "x.com/jj_redick/stat\u2026"
+                    }
+                ]
+            },
+            "id": "1788011077235798219",
+            "created_at": "2024-05-08T01:00:35.000Z",
+            "edit_history_tweet_ids": [
+                "1788011077235798219"
+            ],
+            "text": "Yessir!!!! \ud83e\udee1 https://t.co/7e4bFQVFU9"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 6366,
+                "reply_count": 1467,
+                "like_count": 92927,
+                "quote_count": 1419,
+                "bookmark_count": 1079,
+                "impression_count": 10646160
+            },
+            "id": "1786608319634735223",
+            "created_at": "2024-05-04T04:06:31.000Z",
+            "edit_history_tweet_ids": [
+                "1786608319634735223"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 1,
+                        "probability": 0.4602,
+                        "type": "Other",
+                        "normalized_text": "KY"
+                    }
+                ]
+            },
+            "text": "KY STOP IT!!!!! OMG \ud83d\ude24\ud83d\ude24\ud83d\ude24\ud83d\ude24\ud83d\ude24"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4602,
+                "reply_count": 1310,
+                "like_count": 74579,
+                "quote_count": 1007,
+                "bookmark_count": 707,
+                "impression_count": 7738178
+            },
+            "id": "1785874761501089937",
+            "created_at": "2024-05-02T03:31:37.000Z",
+            "edit_history_tweet_ids": [
+                "1785874761501089937"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 4,
+                        "end": 8,
+                        "probability": 0.8183,
+                        "type": "Person",
+                        "normalized_text": "KYRIE"
+                    }
+                ]
+            },
+            "text": "OMG KYRIE!!!!!!!! That\u2019s was INSANE"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 5493,
+                "reply_count": 1625,
+                "like_count": 75861,
+                "quote_count": 1373,
+                "bookmark_count": 533,
+                "impression_count": 4860837
+            },
+            "id": "1785482851544433140",
+            "created_at": "2024-05-01T01:34:19.000Z",
+            "edit_history_tweet_ids": [
+                "1785482851544433140"
+            ],
+            "text": "TYRESE!!!!!!!!!!!!!!!!! BANG \u203c\ufe0f"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1983,
+                "reply_count": 649,
+                "like_count": 35189,
+                "quote_count": 99,
+                "bookmark_count": 244,
+                "impression_count": 1539956
+            },
+            "id": "1785464659040252221",
+            "created_at": "2024-05-01T00:22:01.000Z",
+            "edit_history_tweet_ids": [
+                "1785464659040252221"
+            ],
+            "text": "well as my representation about it then you guys will know. Until then \ud83e\udd2b. Love \ud83d\udc51"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 8919,
+                "reply_count": 5360,
+                "like_count": 133114,
+                "quote_count": 2823,
+                "bookmark_count": 1938,
+                "impression_count": 8307888
+            },
+            "id": "1785464657769312466",
+            "created_at": "2024-05-01T00:22:01.000Z",
+            "edit_history_tweet_ids": [
+                "1785464657769312466"
+            ],
+            "text": "I\u2019ve seen, heard a lot of reports about my future. I said it last night and I\u2019ll say it again. I do not know yet as I\u2019m only thinking about spending time with my family &amp; friends! When I know after speaking with the fam, my counsel as"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 420,
+                "reply_count": 913,
+                "like_count": 6936,
+                "quote_count": 40,
+                "bookmark_count": 148,
+                "impression_count": 2539185
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/iht0ZQ0zfW",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1781745894754263382",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1781798494266597388",
+            "created_at": "2024-04-20T21:33:59.000Z",
+            "edit_history_tweet_ids": [
+                "1781798494266597388"
+            ],
+            "text": "The GREATEST \ud83d\udc10 Coach D! https://t.co/iht0ZQ0zfW"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 301,
+                "reply_count": 345,
+                "like_count": 5780,
+                "quote_count": 11,
+                "bookmark_count": 43,
+                "impression_count": 1547156
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 30,
+                        "end": 53,
+                        "url": "https://t.co/GCWTelVleC",
+                        "expanded_url": "https://twitter.com/jj_redick/status/1780560018896548149",
+                        "display_url": "x.com/jj_redick/stat\u2026"
+                    }
+                ]
+            },
+            "id": "1780618169205592387",
+            "created_at": "2024-04-17T15:23:48.000Z",
+            "edit_history_tweet_ids": [
+                "1780618169205592387"
+            ],
+            "text": "Yessir!!! Don\u2019t miss it! \ud83e\udde0 \ud83c\udfc0\ud83e\udee1 https://t.co/GCWTelVleC"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 6035,
+                "reply_count": 1121,
+                "like_count": 62082,
+                "quote_count": 2119,
+                "bookmark_count": 1799,
+                "impression_count": 10883840
+            },
+            "id": "1779258629289316441",
+            "created_at": "2024-04-13T21:21:28.000Z",
+            "edit_history_tweet_ids": [
+                "1779258629289316441"
+            ],
+            "text": "Nothing like 2 heavyweights doing What They Do Best! For the love off of the sport"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 11930,
+                "reply_count": 2251,
+                "like_count": 101219,
+                "quote_count": 3081,
+                "bookmark_count": 1710,
+                "impression_count": 13598711
+            },
+            "id": "1779257330640552255",
+            "created_at": "2024-04-13T21:16:19.000Z",
+            "edit_history_tweet_ids": [
+                "1779257330640552255"
+            ],
+            "text": "\ud83e\udd89\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1004,
+                "reply_count": 595,
+                "like_count": 26489,
+                "quote_count": 61,
+                "bookmark_count": 179,
+                "impression_count": 2627910
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/GMo6LKS3DL",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1778482076586565718",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1778493298145214592",
+            "created_at": "2024-04-11T18:40:19.000Z",
+            "edit_history_tweet_ids": [
+                "1778493298145214592"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe https://t.co/GMo6LKS3DL"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 364,
+                "reply_count": 224,
+                "like_count": 4051,
+                "quote_count": 69,
+                "bookmark_count": 105,
+                "impression_count": 1725599
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 80,
+                        "end": 103,
+                        "url": "https://t.co/AcJDyiCedb",
+                        "expanded_url": "https://twitter.com/Lobos1707/status/1778168513036754956",
+                        "display_url": "x.com/Lobos1707/stat\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 66,
+                        "end": 72,
+                        "username": "Drake",
+                        "id": "27195114"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "tag": "AllForThePack"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 39,
+                        "end": 44,
+                        "probability": 0.5097,
+                        "type": "Person",
+                        "normalized_text": "Drizzy"
+                    }
+                ]
+            },
+            "id": "1778168932261904825",
+            "created_at": "2024-04-10T21:11:24.000Z",
+            "edit_history_tweet_ids": [
+                "1778168932261904825"
+            ],
+            "text": "#AllForThePack \ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f. Congrats Drizzy \ud83e\udd89 on a helluva tour @Drake \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/AcJDyiCedb"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 270,
+                "reply_count": 319,
+                "like_count": 4361,
+                "quote_count": 14,
+                "bookmark_count": 47,
+                "impression_count": 1209023
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/03unZefkDT",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1778017125530996783",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1778094605596266928",
+            "created_at": "2024-04-10T16:16:04.000Z",
+            "edit_history_tweet_ids": [
+                "1778094605596266928"
+            ],
+            "text": "DON\u2019T MISS OUT!! https://t.co/03unZefkDT"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 363,
+                "reply_count": 191,
+                "like_count": 4238,
+                "quote_count": 20,
+                "bookmark_count": 87,
+                "impression_count": 1104990
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 81,
+                        "end": 104,
+                        "url": "https://t.co/g63cPaplsr",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1778018841114591444",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 48,
+                        "end": 63,
+                        "username": "mindthegamepod",
+                        "id": "1768703326462390272"
+                    },
+                    {
+                        "start": 64,
+                        "end": 74,
+                        "username": "jj_redick",
+                        "id": "1232718849868304384"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 2,
+                        "end": 2,
+                        "probability": 0.4926,
+                        "type": "Other",
+                        "normalized_text": "."
+                    }
+                ]
+            },
+            "id": "1778092745686679969",
+            "created_at": "2024-04-10T16:08:40.000Z",
+            "edit_history_tweet_ids": [
+                "1778092745686679969"
+            ],
+            "text": "EP.4 is LIVE!! Make sure y\u2019all check it out! \ud83e\udde0\ud83c\udfc0 @mindthegamepod @jj_redick \ud83e\udd1c\ud83c\udffe\ud83e\udd1b\ud83c\udffb\ud83d\ude01 https://t.co/g63cPaplsr"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 9855,
+                "reply_count": 929,
+                "like_count": 78601,
+                "quote_count": 434,
+                "bookmark_count": 510,
+                "impression_count": 3929327
+            },
+            "id": "1777086385947885678",
+            "created_at": "2024-04-07T21:29:45.000Z",
+            "edit_history_tweet_ids": [
+                "1777086385947885678"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 8,
+                        "end": 18,
+                        "probability": 0.9563,
+                        "type": "Person",
+                        "normalized_text": "Dawn Staley"
+                    }
+                ]
+            },
+            "text": "Protect Dawn Staley AT ALL COST!! No if, ands or buts! \ud83d\udd12\ud83e\udee1"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3007,
+                "reply_count": 349,
+                "like_count": 23982,
+                "quote_count": 250,
+                "bookmark_count": 165,
+                "impression_count": 1606826
+            },
+            "id": "1777074211389088127",
+            "created_at": "2024-04-07T20:41:23.000Z",
+            "edit_history_tweet_ids": [
+                "1777074211389088127"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "probability": 0.9493,
+                        "type": "Person",
+                        "normalized_text": "Tessa Johnson"
+                    }
+                ]
+            },
+            "text": "Tessa Johnson cooking!! \ud83d\udc69\ud83c\udffd\u200d\ud83c\udf73"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 17199,
+                "reply_count": 2970,
+                "like_count": 145528,
+                "quote_count": 2718,
+                "bookmark_count": 1766,
+                "impression_count": 8934047
+            },
+            "id": "1777057960013050280",
+            "created_at": "2024-04-07T19:36:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777057850134827325",
+                "1777057960013050280"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 23,
+                        "end": 35,
+                        "probability": 0.9473,
+                        "type": "Person",
+                        "normalized_text": "Caitlin Clark"
+                    }
+                ]
+            },
+            "text": "If you don\u2019t rock with Caitlin Clark game you\u2019re just a FLAT OUT HATER!!!!! Stay far away from them people!! PLEASE"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 12867,
+                "reply_count": 7862,
+                "like_count": 92985,
+                "quote_count": 2605,
+                "bookmark_count": 1104,
+                "impression_count": 8232887
+            },
+            "id": "1776451983047856248",
+            "created_at": "2024-04-06T03:28:52.000Z",
+            "edit_history_tweet_ids": [
+                "1776451983047856248"
+            ],
+            "text": "NAAAAAHHHHHH!!! I ain\u2019t rolling with that call."
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 223,
+                "reply_count": 292,
+                "like_count": 3703,
+                "quote_count": 7,
+                "bookmark_count": 26,
+                "impression_count": 1807828
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/aa1BswJO0W",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1776250773023674412",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ]
+            },
+            "id": "1776256638250594770",
+            "created_at": "2024-04-05T14:32:38.000Z",
+            "edit_history_tweet_ids": [
+                "1776256638250594770"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/aa1BswJO0W"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 354,
+                "reply_count": 250,
+                "like_count": 8783,
+                "quote_count": 74,
+                "bookmark_count": 67,
+                "impression_count": 2382118
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/ybwfM62XLX",
+                        "expanded_url": "https://twitter.com/DuqMBB/status/1775315823906722235",
+                        "display_url": "x.com/DuqMBB/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1775359600599912510",
+            "created_at": "2024-04-03T03:08:08.000Z",
+            "edit_history_tweet_ids": [
+                "1775359600599912510"
+            ],
+            "text": "IT SURE IS!!!! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/ybwfM62XLX"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 716,
+                "reply_count": 277,
+                "like_count": 10556,
+                "quote_count": 37,
+                "bookmark_count": 175,
+                "impression_count": 1807352
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 40,
+                        "end": 63,
+                        "url": "https://t.co/FgvTy8CTKT",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1775244310285312496",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1775257059174318094",
+            "created_at": "2024-04-02T20:20:40.000Z",
+            "edit_history_tweet_ids": [
+                "1775257059174318094"
+            ],
+            "text": "EP.3 drops tomorrow! Don\u2019t miss it!! \ud83e\udde0\ud83d\udc51 https://t.co/FgvTy8CTKT"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 349,
+                "reply_count": 212,
+                "like_count": 7696,
+                "quote_count": 23,
+                "bookmark_count": 35,
+                "impression_count": 1378418
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/MM0l80nt4a",
+                        "expanded_url": "https://twitter.com/DuqMBB/status/1774902026079719608",
+                        "display_url": "x.com/DuqMBB/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1774932096969998457",
+            "created_at": "2024-04-01T22:49:23.000Z",
+            "edit_history_tweet_ids": [
+                "1774932096969998457"
+            ],
+            "text": "The PERFECT GUY!!!! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/MM0l80nt4a"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 80,
+                "reply_count": 118,
+                "like_count": 1213,
+                "quote_count": 11,
+                "bookmark_count": 17,
+                "impression_count": 736227
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/YnSKLfme8F",
+                        "expanded_url": "https://twitter.com/JimmySpencer/status/1774848159082275154",
+                        "display_url": "x.com/JimmySpencer/s\u2026"
+                    }
+                ]
+            },
+            "id": "1774863016145694768",
+            "created_at": "2024-04-01T18:14:53.000Z",
+            "edit_history_tweet_ids": [
+                "1774863016145694768"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/YnSKLfme8F"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 366,
+                "reply_count": 213,
+                "like_count": 2678,
+                "quote_count": 57,
+                "bookmark_count": 66,
+                "impression_count": 478910
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 159,
+                        "end": 182,
+                        "url": "https://t.co/1XI53TWHBg",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1774051508176257470/video/1",
+                        "display_url": "pic.twitter.com/1XI53TWHBg",
+                        "media_key": "13_1774049686841667584"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 133,
+                        "end": 149,
+                        "username": "LJFamFoundation",
+                        "id": "550483516"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 17,
+                        "probability": 0.7369,
+                        "type": "Other",
+                        "normalized_text": "House Three Thirty"
+                    },
+                    {
+                        "start": 125,
+                        "end": 129,
+                        "probability": 0.4544,
+                        "type": "Place",
+                        "normalized_text": "Akron"
+                    }
+                ]
+            },
+            "id": "1774091724802994269",
+            "created_at": "2024-03-30T15:10:02.000Z",
+            "edit_history_tweet_ids": [
+                "1774091724802994269"
+            ],
+            "text": "House Three Thirty is for the WORLD!!!!\u00a0\ud83d\udc51\ud83c\udf0e\ud83d\ude4f\ud83c\udffe\u00a0I promise when you walk through the doors you\u2019ll see what we\u2019re talkin about in Akron!! @ljfamfoundation\u00a0\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\udc9ahttps://t.co/1XI53TWHBg"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 472,
+                "reply_count": 256,
+                "like_count": 5756,
+                "quote_count": 35,
+                "bookmark_count": 63,
+                "impression_count": 1001653
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/bD7pniFj0n",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1774051508176257470",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ]
+            },
+            "id": "1774087404787237286",
+            "created_at": "2024-03-30T14:52:52.000Z",
+            "edit_history_tweet_ids": [
+                "1774087404787237286"
+            ],
+            "text": "My community means the world to me!! I hope and pray we ALL WIN!!! \ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe\ud83d\udc9a\ud83d\udc51 https://t.co/bD7pniFj0n"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1067,
+                "reply_count": 368,
+                "like_count": 14028,
+                "quote_count": 32,
+                "bookmark_count": 313,
+                "impression_count": 1989064
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 103,
+                        "end": 126,
+                        "url": "https://t.co/dLPKIuDO8c",
+                        "expanded_url": "https://twitter.com/MrCleveland_216/status/1773507271034573276",
+                        "display_url": "x.com/MrCleveland_21\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 75,
+                        "end": 87,
+                        "username": "DruOnDemand",
+                        "id": "169679243"
+                    }
+                ]
+            },
+            "id": "1773555935614546355",
+            "created_at": "2024-03-29T03:41:00.000Z",
+            "edit_history_tweet_ids": [
+                "1773555935614546355"
+            ],
+            "text": "One of the GREATEST Performances I\u2019ve ever been apart of in my life! WOW!! @DruOnDemand \ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe https://t.co/dLPKIuDO8c"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1500,
+                "reply_count": 493,
+                "like_count": 19684,
+                "quote_count": 270,
+                "bookmark_count": 146,
+                "impression_count": 1781396
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 203,
+                        "end": 215,
+                        "username": "DruOnDemand",
+                        "id": "169679243"
+                    },
+                    {
+                        "start": 216,
+                        "end": 223,
+                        "username": "DuqMBB",
+                        "id": "553044407"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 249,
+                        "end": 257,
+                        "tag": "GoDukes"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 71,
+                        "end": 79,
+                        "probability": 0.4808,
+                        "type": "Other",
+                        "normalized_text": "Dru Joyce"
+                    },
+                    {
+                        "start": 98,
+                        "end": 116,
+                        "probability": 0.9838,
+                        "type": "Organization",
+                        "normalized_text": "Duquesne University"
+                    }
+                ]
+            },
+            "id": "1773440446150086928",
+            "created_at": "2024-03-28T20:02:05.000Z",
+            "edit_history_tweet_ids": [
+                "1773440446150086928"
+            ],
+            "text": "I\u2019m proud to announce! As the unquestioned source I am confirming that Dru Joyce is the new HC at Duquesne University and is meeting with the team right now! So damn happy and proud of you my brother!!! @DruOnDemand @DuqMBB \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe #GoDukes\u2764\ufe0f\ud83d\udc99\ud83e\udd0d"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 629,
+                "reply_count": 405,
+                "like_count": 11639,
+                "quote_count": 55,
+                "bookmark_count": 63,
+                "impression_count": 869225
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 52,
+                        "end": 67,
+                        "username": "mindthegamepod",
+                        "id": "1768703326462390272"
+                    },
+                    {
+                        "start": 72,
+                        "end": 82,
+                        "username": "jj_redick",
+                        "id": "1232718849868304384"
+                    }
+                ]
+            },
+            "id": "1773112569131065528",
+            "created_at": "2024-03-27T22:19:13.000Z",
+            "edit_history_tweet_ids": [
+                "1773112401577001448",
+                "1773112569131065528"
+            ],
+            "text": "If you haven\u2019t yet make sure to tap in to Episode 2 @mindthegamepod \ud83e\udde0\ud83d\udc51\ud83d\ude09 @jj_redick \ud83d\ude01\ud83d\ude4f\ud83c\udffe\ud83d\ude4c\ud83c\udffe"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 428,
+                "reply_count": 188,
+                "like_count": 7234,
+                "quote_count": 17,
+                "bookmark_count": 47,
+                "impression_count": 902673
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 22,
+                        "end": 45,
+                        "url": "https://t.co/1TC7OTRjHB",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1772941845737210165",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1773035274110402999",
+            "created_at": "2024-03-27T17:12:05.000Z",
+            "edit_history_tweet_ids": [
+                "1773035274110402999"
+            ],
+            "text": "We LIVE BABY!!!! \ud83d\ude4c\ud83c\udffe\ud83e\udde0\ud83d\udc51 https://t.co/1TC7OTRjHB"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 261,
+                "reply_count": 80,
+                "like_count": 6243,
+                "quote_count": 1,
+                "bookmark_count": 85,
+                "impression_count": 925651
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 53,
+                        "end": 76,
+                        "url": "https://t.co/L95Ws8sgrr",
+                        "expanded_url": "https://twitter.com/kevinlove/status/1772975013160710528",
+                        "display_url": "x.com/kevinlove/stat\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 35,
+                        "end": 45,
+                        "username": "kevinlove",
+                        "id": "217160945"
+                    }
+                ]
+            },
+            "id": "1773034533383753943",
+            "created_at": "2024-03-27T17:09:08.000Z",
+            "edit_history_tweet_ids": [
+                "1773034533383753943"
+            ],
+            "text": "Awesome my brother!!!! Great stuff @kevinlove \ud83d\udd77\ufe0f\ud83d\ude4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe https://t.co/L95Ws8sgrr"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 445,
+                "reply_count": 529,
+                "like_count": 6502,
+                "quote_count": 35,
+                "bookmark_count": 93,
+                "impression_count": 1270132
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 75,
+                        "end": 98,
+                        "url": "https://t.co/7npPpRZSGy",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1772707594802499664",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1772708405116797374",
+            "created_at": "2024-03-26T19:33:13.000Z",
+            "edit_history_tweet_ids": [
+                "1772708405116797374"
+            ],
+            "text": "Tomorrow can't come fast enough!! Episode 2 drops ma\u00f1ana. LET'S GO!!!! \ud83e\udde0 \ud83c\udfc0 https://t.co/7npPpRZSGy"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 228,
+                "reply_count": 668,
+                "like_count": 2993,
+                "quote_count": 9,
+                "bookmark_count": 22,
+                "impression_count": 996479
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 66,
+                        "end": 89,
+                        "url": "https://t.co/uV4h6Mspdo",
+                        "expanded_url": "https://twitter.com/CamKnows_/status/1772399209162948660",
+                        "display_url": "x.com/CamKnows_/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 46,
+                        "probability": 0.5185,
+                        "type": "Person",
+                        "normalized_text": "Killa Cam"
+                    }
+                ]
+            },
+            "id": "1772401691582775748",
+            "created_at": "2024-03-25T23:14:27.000Z",
+            "edit_history_tweet_ids": [
+                "1772401691582775748"
+            ],
+            "text": "Congrats lil bro!! Super proud of you Killa Cam!!! THATS \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/uV4h6Mspdo"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 383,
+                "reply_count": 244,
+                "like_count": 7511,
+                "quote_count": 15,
+                "bookmark_count": 32,
+                "impression_count": 1279248
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 32,
+                        "end": 55,
+                        "url": "https://t.co/kAf1EZJD3P",
+                        "expanded_url": "https://twitter.com/jj_redick/status/1772323378243977283",
+                        "display_url": "x.com/jj_redick/stat\u2026"
+                    }
+                ]
+            },
+            "id": "1772331018911105187",
+            "created_at": "2024-03-25T18:33:37.000Z",
+            "edit_history_tweet_ids": [
+                "1772331018911105187"
+            ],
+            "text": "Yessir!!! Don\u2019t miss it! \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f https://t.co/kAf1EZJD3P"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 870,
+                "reply_count": 450,
+                "like_count": 15006,
+                "quote_count": 33,
+                "bookmark_count": 417,
+                "impression_count": 1811217
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 26,
+                        "end": 49,
+                        "url": "https://t.co/l82iiYiHSM",
+                        "expanded_url": "https://twitter.com/eric_shap/status/1771335128251326665",
+                        "display_url": "x.com/eric_shap/stat\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 6,
+                        "end": 21,
+                        "username": "mindthegamepod",
+                        "id": "1768703326462390272"
+                    }
+                ]
+            },
+            "id": "1771416367436288184",
+            "created_at": "2024-03-23T05:59:07.000Z",
+            "edit_history_tweet_ids": [
+                "1771416367436288184"
+            ],
+            "text": "\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f @mindthegamepod \ud83e\udde0 \ud83d\ude09 https://t.co/l82iiYiHSM"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 231,
+                "reply_count": 245,
+                "like_count": 3250,
+                "quote_count": 6,
+                "bookmark_count": 34,
+                "impression_count": 772280
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 14,
+                        "end": 37,
+                        "url": "https://t.co/zL7rCRj4wl",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1771152346795721168",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ]
+            },
+            "id": "1771183905787310312",
+            "created_at": "2024-03-22T14:35:24.000Z",
+            "edit_history_tweet_ids": [
+                "1771183905787310312"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83e\udd0e https://t.co/zL7rCRj4wl"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 109,
+                "reply_count": 133,
+                "like_count": 2669,
+                "quote_count": 6,
+                "bookmark_count": 23,
+                "impression_count": 880679
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 51,
+                        "end": 74,
+                        "url": "https://t.co/cb8EZ5rjwY",
+                        "expanded_url": "https://twitter.com/a_ritossa/status/1770903572076495024",
+                        "display_url": "x.com/a_ritossa/stat\u2026"
+                    }
+                ]
+            },
+            "id": "1770966875645874365",
+            "created_at": "2024-03-22T00:13:00.000Z",
+            "edit_history_tweet_ids": [
+                "1770966875645874365"
+            ],
+            "text": "The DYNAMIC DUO!!!! Love y\u2019all!!! Boot the \ud83d\udc10\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/cb8EZ5rjwY"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 415,
+                "reply_count": 124,
+                "like_count": 5117,
+                "quote_count": 34,
+                "bookmark_count": 37,
+                "impression_count": 789562
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 11,
+                        "end": 23,
+                        "username": "DruOnDemand",
+                        "id": "169679243"
+                    },
+                    {
+                        "start": 41,
+                        "end": 48,
+                        "username": "DuqMBB",
+                        "id": "553044407"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 35,
+                        "end": 39,
+                        "probability": 0.8233,
+                        "type": "Organization",
+                        "normalized_text": "Dukes"
+                    }
+                ]
+            },
+            "id": "1770890545184800908",
+            "created_at": "2024-03-21T19:09:42.000Z",
+            "edit_history_tweet_ids": [
+                "1770890545184800908"
+            ],
+            "text": "YEAAAAHHHH @DruOnDemand LFG!!!! Go Dukes @DuqMBB"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1338,
+                "reply_count": 212,
+                "like_count": 17816,
+                "quote_count": 115,
+                "bookmark_count": 86,
+                "impression_count": 1182083
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 51,
+                        "end": 64,
+                        "username": "CoachDambrot",
+                        "id": "125402571"
+                    },
+                    {
+                        "start": 67,
+                        "end": 74,
+                        "username": "DuqMBB",
+                        "id": "553044407"
+                    }
+                ]
+            },
+            "id": "1770888298862358983",
+            "created_at": "2024-03-21T19:00:46.000Z",
+            "edit_history_tweet_ids": [
+                "1770888298862358983"
+            ],
+            "text": "AYYYYYYYEEEEE!!! First tournament win in 55 years! @CoachDambrot \ud83d\udc10 @DuqMBB \ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe. Keep it going"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 818,
+                "reply_count": 262,
+                "like_count": 17371,
+                "quote_count": 37,
+                "bookmark_count": 191,
+                "impression_count": 1806653
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 43,
+                        "end": 66,
+                        "url": "https://t.co/PSF2oVRwpZ",
+                        "expanded_url": "https://twitter.com/TheHoopCentral/status/1770598655185326215",
+                        "display_url": "x.com/TheHoopCentral\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 31,
+                        "end": 41,
+                        "tag": "JamesGang"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 22,
+                        "end": 28,
+                        "probability": 0.6519,
+                        "type": "Other",
+                        "normalized_text": "Maximus"
+                    }
+                ]
+            },
+            "id": "1770649967901954123",
+            "created_at": "2024-03-21T03:13:44.000Z",
+            "edit_history_tweet_ids": [
+                "1770649967901954123"
+            ],
+            "text": "Yessir!! Keep working Maximus! #JamesGang\ud83d\udc51 https://t.co/PSF2oVRwpZ"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 877,
+                "reply_count": 251,
+                "like_count": 19495,
+                "quote_count": 47,
+                "bookmark_count": 193,
+                "impression_count": 2237958
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 36,
+                        "end": 59,
+                        "url": "https://t.co/ngxGghmCd7",
+                        "expanded_url": "https://twitter.com/DuqMBB/status/1770599955519959072",
+                        "display_url": "x.com/DuqMBB/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1770622822634938746",
+            "created_at": "2024-03-21T01:25:52.000Z",
+            "edit_history_tweet_ids": [
+                "1770622822634938746"
+            ],
+            "text": "Yessir!! \ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe Best of luck guys!! https://t.co/ngxGghmCd7"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 322,
+                "reply_count": 255,
+                "like_count": 8677,
+                "quote_count": 8,
+                "bookmark_count": 265,
+                "impression_count": 1373502
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/WrN1U4lCzL",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1770533892161736753",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ]
+            },
+            "id": "1770548733018784049",
+            "created_at": "2024-03-20T20:31:27.000Z",
+            "edit_history_tweet_ids": [
+                "1770548733018784049"
+            ],
+            "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/WrN1U4lCzL"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2859,
+                "reply_count": 2178,
+                "like_count": 46359,
+                "quote_count": 1923,
+                "bookmark_count": 1416,
+                "impression_count": 5590734
+            },
+            "id": "1770493767520248167",
+            "created_at": "2024-03-20T16:53:03.000Z",
+            "edit_history_tweet_ids": [
+                "1770493655679201739",
+                "1770493767520248167"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 26,
+                        "end": 33,
+                        "probability": 0.9438,
+                        "type": "Other",
+                        "normalized_text": "X-MEN 97"
+                    }
+                ]
+            },
+            "text": "Where can I watch the new X-MEN 97 animated series?? I loved it back in the days."
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1338,
+                "reply_count": 1293,
+                "like_count": 31453,
+                "quote_count": 396,
+                "bookmark_count": 350,
+                "impression_count": 2226047
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 22,
+                        "end": 37,
+                        "username": "mindthegamepod",
+                        "id": "1768703326462390272"
+                    }
+                ]
+            },
+            "id": "1770189206989472082",
+            "created_at": "2024-03-19T20:42:50.000Z",
+            "edit_history_tweet_ids": [
+                "1770189206989472082"
+            ],
+            "text": "How are y\u2019all feeling @mindthegamepod Ep.1 so far?? Can\u2019t wait for y\u2019all to see the next episode/s and beyond! \ud83e\udde0\ud83c\udfc0"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 481,
+                "reply_count": 289,
+                "like_count": 7526,
+                "quote_count": 25,
+                "bookmark_count": 102,
+                "impression_count": 1226529
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 15,
+                        "end": 38,
+                        "url": "https://t.co/wZZRMeG6bX",
+                        "expanded_url": "https://twitter.com/LJFamFoundation/status/1770063138269843611",
+                        "display_url": "x.com/LJFamFoundatio\u2026"
+                    }
+                ]
+            },
+            "id": "1770115163242524712",
+            "created_at": "2024-03-19T15:48:36.000Z",
+            "edit_history_tweet_ids": [
+                "1770115163242524712"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/wZZRMeG6bX"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3358,
+                "reply_count": 540,
+                "like_count": 34082,
+                "quote_count": 369,
+                "bookmark_count": 977,
+                "impression_count": 2603289
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 206,
+                        "end": 229,
+                        "url": "https://t.co/mrAhW8c3bH",
+                        "expanded_url": "https://twitter.com/mindthegamepod/status/1769778575400485263",
+                        "display_url": "x.com/mindthegamepod\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 98,
+                        "end": 108,
+                        "username": "jj_redick",
+                        "id": "1232718849868304384"
+                    }
+                ]
+            },
+            "id": "1769795789646127317",
+            "created_at": "2024-03-18T18:39:32.000Z",
+            "edit_history_tweet_ids": [
+                "1769795789646127317"
+            ],
+            "text": "Full episode up tomorrow.  This is for everyone who truly loves our beautiful game.  Shout out to @jj_redick for creating this with us. Wait until we add the visuals/clips to go along with it too! OMG \ud83d\ude31\ud83e\udd2f\ud83e\udd2f\ud83d\ude01 https://t.co/mrAhW8c3bH"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1673,
+                "reply_count": 471,
+                "like_count": 28487,
+                "quote_count": 181,
+                "bookmark_count": 292,
+                "impression_count": 2797002
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 44,
+                        "end": 67,
+                        "url": "https://t.co/2rjIE35L9M",
+                        "expanded_url": "https://twitter.com/AndrewMarchand/status/1769763875149230447",
+                        "display_url": "x.com/AndrewMarchand\u2026"
+                    }
+                ]
+            },
+            "id": "1769788801998557458",
+            "created_at": "2024-03-18T18:11:46.000Z",
+            "edit_history_tweet_ids": [
+                "1769788801998557458"
+            ],
+            "text": "It\u2019s what\u2019s NEEDED!! This is going to FUN!! https://t.co/2rjIE35L9M"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 227,
+                "reply_count": 95,
+                "like_count": 4325,
+                "quote_count": 6,
+                "bookmark_count": 28,
+                "impression_count": 1026956
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 22,
+                        "end": 45,
+                        "url": "https://t.co/KFRubsuOfL",
+                        "expanded_url": "https://twitter.com/DuqMBB/status/1769523731662057745",
+                        "display_url": "x.com/DuqMBB/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1769755547556012302",
+            "created_at": "2024-03-18T15:59:37.000Z",
+            "edit_history_tweet_ids": [
+                "1769755547556012302"
+            ],
+            "text": "THE BEST!!!!!! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/KFRubsuOfL"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1040,
+                "reply_count": 238,
+                "like_count": 8550,
+                "quote_count": 147,
+                "bookmark_count": 74,
+                "impression_count": 1542861
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 42,
+                        "end": 49,
+                        "username": "DuqMBB",
+                        "id": "553044407"
+                    },
+                    {
+                        "start": 103,
+                        "end": 117,
+                        "username": "CoachDruJoyce",
+                        "id": "1227787021"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 32,
+                        "end": 40,
+                        "probability": 0.4724,
+                        "type": "Other",
+                        "normalized_text": "Big Dance"
+                    },
+                    {
+                        "start": 89,
+                        "end": 95,
+                        "probability": 0.5155,
+                        "type": "Other",
+                        "normalized_text": "Dambrot"
+                    }
+                ]
+            },
+            "id": "1769442949023355376",
+            "created_at": "2024-03-17T19:17:28.000Z",
+            "edit_history_tweet_ids": [
+                "1769442949023355376"
+            ],
+            "text": "YESSIRRR!! Punch that \ud83c\udf9f\ufe0f to the Big Dance @DuqMBB!!! CONGRATULATIONS!!!!! Love you Coach Dambrot &amp; @CoachDruJoyce \ud83e\udd0e\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2385,
+                "reply_count": 908,
+                "like_count": 43751,
+                "quote_count": 431,
+                "bookmark_count": 830,
+                "impression_count": 4302180
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 26,
+                        "end": 49,
+                        "url": "https://t.co/3CoHMoSE2x",
+                        "expanded_url": "https://twitter.com/TheHoopCentral/status/1769159665282380201",
+                        "display_url": "x.com/TheHoopCentral\u2026"
+                    }
+                ]
+            },
+            "id": "1769201419423490242",
+            "created_at": "2024-03-17T03:17:43.000Z",
+            "edit_history_tweet_ids": [
+                "1769201419423490242"
+            ],
+            "text": "I love that!!! So \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/3CoHMoSE2x"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 601,
+                "reply_count": 174,
+                "like_count": 10456,
+                "quote_count": 18,
+                "bookmark_count": 68,
+                "impression_count": 1733306
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "url": "https://t.co/x6kKPKtLml",
+                        "expanded_url": "https://twitter.com/CuffsTheLegend/status/1768672786342445506",
+                        "display_url": "x.com/CuffsTheLegend\u2026"
+                    }
+                ]
+            },
+            "id": "1768678397302149395",
+            "created_at": "2024-03-15T16:39:25.000Z",
+            "edit_history_tweet_ids": [
+                "1768678397302149395"
+            ],
+            "text": "FACTS!!! Congratulations 9\ufe0f\u20e39\ufe0f\u20e3!! Was an absolute pleasure to watch you dominate! \ud83e\udee1 CHAMP https://t.co/x6kKPKtLml"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4898,
+                "reply_count": 639,
+                "like_count": 65200,
+                "quote_count": 148,
+                "bookmark_count": 326,
+                "impression_count": 4018077
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 18,
+                        "end": 27,
+                        "username": "Dloading",
+                        "id": "348288809"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 11,
+                        "end": 13,
+                        "probability": 0.494,
+                        "type": "Other",
+                        "normalized_text": "9LO"
+                    }
+                ]
+            },
+            "id": "1766346162255409402",
+            "created_at": "2024-03-09T06:11:56.000Z",
+            "edit_history_tweet_ids": [
+                "1766346162255409402"
+            ],
+            "text": "YEAAAAHHHH 9LO!!! @Dloading \ud83d\ude24\ud83d\ude24\ud83d\ude24\ud83d\ude24\ud83d\ude24\ud83d\ude24\ud83d\ude24"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4648,
+                "reply_count": 653,
+                "like_count": 82471,
+                "quote_count": 173,
+                "bookmark_count": 427,
+                "impression_count": 3371116
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 9,
+                        "end": 24,
+                        "username": "CaitlinClark22",
+                        "id": "3239359639"
+                    }
+                ]
+            },
+            "id": "1764379666767655142",
+            "created_at": "2024-03-03T19:57:47.000Z",
+            "edit_history_tweet_ids": [
+                "1764379666767655142"
+            ],
+            "text": "CONGRATS @CaitlinClark22 on becoming the All-Time leading scorer!! \ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3\ud83e\udea3. \ud83d\ude4f\ud83c\udffe\ud83e\udee1\ud83d\udc51"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 765,
+                "reply_count": 640,
+                "like_count": 11434,
+                "quote_count": 216,
+                "bookmark_count": 397,
+                "impression_count": 2293572
+            },
+            "id": "1761997513324941792",
+            "created_at": "2024-02-26T06:11:58.000Z",
+            "edit_history_tweet_ids": [
+                "1761997513324941792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "probability": 0.8778,
+                        "type": "Person",
+                        "normalized_text": "Mike Epps"
+                    },
+                    {
+                        "start": 11,
+                        "end": 26,
+                        "probability": 0.9488,
+                        "type": "Other",
+                        "normalized_text": "Ready to Sellout"
+                    },
+                    {
+                        "start": 53,
+                        "end": 59,
+                        "probability": 0.9445,
+                        "type": "Organization",
+                        "normalized_text": "Netflix"
+                    }
+                ]
+            },
+            "text": "Mike Epps \u201cReady to Sellout\u201d new stand up special on Netflix is FKN HILARIOUS!!!!! \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 12688,
+                "reply_count": 1324,
+                "like_count": 169438,
+                "quote_count": 947,
+                "bookmark_count": 848,
+                "impression_count": 8351904
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 36,
+                        "end": 59,
+                        "url": "https://t.co/FGvflc16vv",
+                        "expanded_url": "https://twitter.com/LFC/status/1761808946484928965",
+                        "display_url": "x.com/LFC/status/176\u2026"
+                    }
+                ]
+            },
+            "id": "1761810990440870016",
+            "created_at": "2024-02-25T17:50:47.000Z",
+            "edit_history_tweet_ids": [
+                "1761810990440870016"
+            ],
+            "text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe CONGRATS MEN!! \ud83c\udfc6 https://t.co/FGvflc16vv"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 268,
+                "reply_count": 223,
+                "like_count": 6130,
+                "quote_count": 22,
+                "bookmark_count": 37,
+                "impression_count": 1370133
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 13,
+                        "end": 28,
+                        "username": "USCBasketball_",
+                        "id": "1356853543202942978"
+                    }
+                ]
+            },
+            "id": "1761628910440313270",
+            "created_at": "2024-02-25T05:47:16.000Z",
+            "edit_history_tweet_ids": [
+                "1761628910440313270"
+            ],
+            "text": "Great road W @USCBasketball_ !! \u270c\ud83c\udffe"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 4010,
+                "reply_count": 799,
+                "like_count": 107330,
+                "quote_count": 406,
+                "bookmark_count": 646,
+                "impression_count": 7547106
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 15,
+                        "end": 38,
+                        "url": "https://t.co/tywmQsFdjh",
+                        "expanded_url": "https://twitter.com/KingJames/status/1761492610857029684/photo/1",
+                        "display_url": "pic.twitter.com/tywmQsFdjh",
+                        "media_key": "3_1761492605664477184"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 9,
+                        "end": 11,
+                        "probability": 0.7331,
+                        "type": "Other",
+                        "normalized_text": "Pop"
+                    }
+                ]
+            },
+            "id": "1761492610857029684",
+            "created_at": "2024-02-24T20:45:40.000Z",
+            "edit_history_tweet_ids": [
+                "1761492610857029684"
+            ],
+            "text": "Love you Pop!! https://t.co/tywmQsFdjh"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 189,
+                "reply_count": 84,
+                "like_count": 2216,
+                "quote_count": 17,
+                "bookmark_count": 34,
+                "impression_count": 731835
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 62,
+                        "end": 85,
+                        "url": "https://t.co/ohfMLfkGLo",
+                        "expanded_url": "https://twitter.com/espn/status/1761418735137554585",
+                        "display_url": "x.com/espn/status/17\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 4,
+                        "end": 7,
+                        "probability": 0.3018,
+                        "type": "Other",
+                        "normalized_text": "CITY"
+                    },
+                    {
+                        "start": 18,
+                        "end": 20,
+                        "probability": 0.7593,
+                        "type": "Other",
+                        "normalized_text": "Rip"
+                    }
+                ]
+            },
+            "id": "1761452685575037070",
+            "created_at": "2024-02-24T18:07:01.000Z",
+            "edit_history_tweet_ids": [
+                "1761452685575037070"
+            ],
+            "text": "RIP CITY!!!! Love Rip! Nailed that joint like it was nothing! https://t.co/ohfMLfkGLo"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 7956,
+                "reply_count": 874,
+                "like_count": 106135,
+                "quote_count": 1036,
+                "bookmark_count": 1119,
+                "impression_count": 9549228
+            },
+            "id": "1761283287497196022",
+            "created_at": "2024-02-24T06:53:53.000Z",
+            "edit_history_tweet_ids": [
+                "1761283287497196022"
+            ],
+            "text": "That kid is SPECIAL!! \ud83d\udc7d"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 213,
+                "reply_count": 315,
+                "like_count": 1244,
+                "quote_count": 4,
+                "bookmark_count": 18,
+                "impression_count": 1067600
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/F6Pc9FacEv",
+                        "expanded_url": "https://twitter.com/i/web/status/1758516669041811560",
+                        "display_url": "x.com/i/web/status/1\u2026"
+                    },
+                    {
+                        "start": 305,
+                        "end": 328,
+                        "url": "https://t.co/wslxFqCx9F",
+                        "expanded_url": "https://twitter.com/jtoonkel/status/1758312504625676458",
+                        "display_url": "x.com/jtoonkel/statu\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 48,
+                        "end": 63,
+                        "username": "makespringhill",
+                        "id": "3837667054"
+                    }
+                ]
+            },
+            "id": "1758516669041811560",
+            "created_at": "2024-02-16T15:40:20.000Z",
+            "edit_history_tweet_ids": [
+                "1758516669041811560"
+            ],
+            "text": "I am so blessed to have such an incredible team @makespringhill.  We founded this company because we wanted to empower not just athletes, but our community.  When I look around, I see nothing but more opportunities to continue empowering.  My deepest gratitude and love to all of\u2026 https://t.co/F6Pc9FacEv https://t.co/wslxFqCx9F"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 162,
+                "reply_count": 166,
+                "like_count": 3783,
+                "quote_count": 1,
+                "bookmark_count": 20,
+                "impression_count": 1339502
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 51,
+                        "end": 74,
+                        "url": "https://t.co/5x9wL7Ae7l",
+                        "expanded_url": "https://twitter.com/STVMGBK/status/1758202671788351539",
+                        "display_url": "x.com/STVMGBK/status\u2026"
+                    }
+                ]
+            },
+            "id": "1758360059208143056",
+            "created_at": "2024-02-16T05:18:01.000Z",
+            "edit_history_tweet_ids": [
+                "1758360059208143056"
+            ],
+            "text": "YEEEEAAAAAHHHH NIECE!!!!!! \ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83e\udd0e\ud83e\udd0e\ud83e\udd0e\ud83e\udd0e\ud83e\udd0e https://t.co/5x9wL7Ae7l"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 5465,
+                "reply_count": 607,
+                "like_count": 63988,
+                "quote_count": 504,
+                "bookmark_count": 558,
+                "impression_count": 4572605
+            },
+            "id": "1757980004833521811",
+            "created_at": "2024-02-15T04:07:49.000Z",
+            "edit_history_tweet_ids": [
+                "1757980004833521811"
+            ],
+            "text": "Lil bro going CRAZY tonight!!!!! YEEEAAAHHHH RUUUUUU\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 940,
+                "reply_count": 481,
+                "like_count": 21824,
+                "quote_count": 171,
+                "bookmark_count": 110,
+                "impression_count": 2263116
+            },
+            "id": "1757974994032754806",
+            "created_at": "2024-02-15T03:47:54.000Z",
+            "edit_history_tweet_ids": [
+                "1757974994032754806"
+            ],
+            "text": "12 mins left! LETS GOOOOOO"
+        }
+    ]
+}

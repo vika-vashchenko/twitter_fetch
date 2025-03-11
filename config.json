@@ -1,0 +1,11 @@
+{
+    "execution_interval_ms": 10800,
+    "x_users_file_path": "x_users.json",
+    "output_folder_path": "posts_db",
+    "log_file_path": "logs/x_posts.log",
+    "max_results": 100,
+    "timestamp_format": "%Y%m%d%H%M%S%f",
+    "use_mongodb": true,
+    "mongodb_uri": "mongodb://admin:dbadmin@localhost:27017/",
+    "mongodb_db_name": "twitter_data"
+}
